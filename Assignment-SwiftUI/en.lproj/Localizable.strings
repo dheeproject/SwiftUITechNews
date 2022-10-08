@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Assignment-SwiftUI
+
+  Created by Unthinkable-mac-0040 on 15/06/21.
+  
+*/
+"Tech News"           = "TECH NEWS";
+"Menu"                = "Menu";
+"Sad"                 = "Sad";
+"Login"               = "Login";
+"Add"                 = "Add";
+"Love it"             = "Love it";
+"Satisfied"           = "Satisfied";
+"Your Feedback"       = "Your Feedback";
+"StackOverFlow Sold"  = "StackOverFlow Sold";
+"Your Learnings"      = "Your Learnings";
+"My Profile"          = "My Profile";
+"Logout"              = "Logout";
+"Give us 5 star"      = "Give us 5 star";
+"Hello Dheeraj"       = "Hello Dheeraj";
+"Dheeraj"             = "Dheeraj";
+"Enter your Name"     = "Enter your Name";
+"Enter your Password" = "Enter your Password";
+"Mspaint IDE Launched"= "Mspaint IDE Launched";
+"Employee quiting Job rate increased" = "Employee quiting Job rate increased";
+"VsCode new update Available" = "VsCode new update Available";
+"Thank you, Your feedback is recorded" = "Thank you, Your feedback is recorded";
+
