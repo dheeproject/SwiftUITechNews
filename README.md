@@ -12,6 +12,10 @@ It covers localisations to cover more than one language.
 It covers feedback option.
 It covers side menu.
 It covers login log out option.
-You can add nots what you get knowledge from app news and save them for future readings.
+It covers radiant background colour screens.
+It covers tabs at the below screen
+
+You can add notes what you get knowledge from app news and save them for future readings.
+
 
 And all this magic is done by Swift-UI
